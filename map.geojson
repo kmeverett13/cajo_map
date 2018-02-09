@@ -1,0 +1,1144 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Henricus Historical Park",
+        "Panel Title": "Stuggling to Survive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.359645,
+          37.376352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Windsor Castle Park",
+        "Panel Title": "Liquid Maze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.621679,
+          36.975461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Fredericksburg City Dock Park",
+        "Panel Title": "No Outlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.453853,
+          38.296836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Caledon State Park",
+        "Panel Title": "All That Glitters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.157326,
+          38.348455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Lawrence Lewis Jr Park",
+        "Panel Title": "Canoes from Trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.097704,
+          37.317283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Mount Landing Creek Water Trail/ Rappahannock River Valley NWR",
+        "Panel Title": "Bountiful Marshes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.891283,
+          37.947058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Tappahannock",
+        "Panel Title": "Enduring Records"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.857021,
+          37.930401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Urbanna Town Marina",
+        "Panel Title": "Smith's Snapshot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.570957,
+          37.638249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Deltaville Maritime Museum",
+        "Panel Title": "Fish Story"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3238355,
+          37.549732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Crow's Nest Natural Area Preserve",
+        "Panel Title": "Multi-Use Forests"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.332423,
+          38.371405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Leesylvania State Park",
+        "Panel Title": "Swimming in Bounty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.254583,
+          38.587307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Bennett's Creek Park",
+        "Panel Title": "Marshland Diversity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.483882,
+          36.850797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Westmoreland State Park",
+        "Panel Title": "Putting the Potomac on the Map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.876943,
+          38.172928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Kiptopeke State Park",
+        "Panel Title": "A Good Start"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.988548,
+          37.166626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "First Landing State Park",
+        "Panel Title": "Land Ho!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.053865,
+          36.918991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Chippokes Plantation State Park",
+        "Panel Title": "Working the Land"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.73894,
+          37.145972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "York River State Park",
+        "Panel Title": "Powhatan's Headquarters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.713121,
+          37.414409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Belle Isle State Park",
+        "Panel Title": "Trade Routes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.592437,
+          37.773264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Piscataway Park/Accokeek",
+        "Panel Title": "Cherished Homeland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.042999,
+          38.693549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Fort Monroe National Monument",
+        "Panel Title": "Safe Harbor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.303976,
+          37.002518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Waterman's Museum",
+        "Panel Title": "John Smith Explores the Chesapeake/ Join the Adventure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51073,
+          37.239616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Smallwood State Park",
+        "Panel Title": "Rich Resources"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.18502,
+          38.558758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "North Point State Park",
+        "Panel Title": "Hard Travel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.423898,
+          39.20786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Hughlett Point Natural Area",
+        "Panel Title": "Chesapeake Challenges"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.308686,
+          37.736514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Osborne Park Boat Landing",
+        "Panel Title": "Curvy Course"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.386341,
+          37.401686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Deep Bottom Park",
+        "Panel Title": "James River Oxbow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.305319,
+          37.407494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Ancarrows Boat Landing",
+        "Panel Title": "Up-River Venture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.419047,
+          37.520011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Susquehanna State Park",
+        "Panel Title": "Launch Your Journey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.128154,
+          39.597567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Sandy Point State Park",
+        "Panel Title": "Launch Your Journey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.395472,
+          39.012784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Point Lookout State Park",
+        "Panel Title": "Launch Your Journey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.327083,
+          38.051993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Capt. John Smith Nanticoke Discovery Center",
+        "Panel Title": "Launch Your Journey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.823616,
+          38.485442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Historic Jamestowne",
+        "Panel Title": "Eating and Drinking at Jamestown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.780064,
+          37.209244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "James City County Marina",
+        "Panel Title": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.779212,
+          37.226613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Delaware (TBD) Nanticoke River WT",
+        "Panel Title": "Trading Prowess"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.656791,
+          38.601069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Janes Island State Park",
+        "Panel Title": "Searching for Water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.848135,
+          38.009801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Shadding Reach Landing",
+        "Panel Title": "Shadding Reach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.882204,
+          39.251115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Cannon Street Pier",
+        "Panel Title": "Cannon Street Pier/Chestertown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.064079,
+          39.206104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Cliff City Landing",
+        "Panel Title": "Cliff City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.142214,
+          39.106935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Shipyard Landing",
+        "Panel Title": "Shipyard Landing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.190019,
+          39.16266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Betteron Landing",
+        "Panel Title": "Betterton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.063202,
+          39.370635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Turner's Creek Landing",
+        "Panel Title": "Turner's Creek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.985222,
+          39.3487233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Sailwinds Visitor Center",
+        "Panel Title": "Discover: Dorchester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.064314,
+          38.571256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Emperor's Landing Park  (Boat Ramp)",
+        "Panel Title": "Discover: The Nanticoke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.826017,
+          38.48335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Emperor's Landing Park (Floating Dock)",
+        "Panel Title": "Discover: Vienna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.823226,
+          38.483124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Vienna Heritage Museum",
+        "Panel Title": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.826017,
+          38.48527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Havre de Grace Promenade 1",
+        "Panel Title": "Harvesting the Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.085709,
+          39.540239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Havre de Grace Promenade 2",
+        "Panel Title": "Village Life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.085799,
+          39.540262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Havre de Grace Promenade 3",
+        "Panel Title": "Captain John Smith Visited Here: August 2-6, 1608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.085718,
+          39.540268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Havre de Grace Promenade 4",
+        "Panel Title": "Welcome to Havre de Grace - at the Head of the Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.085579,
+          39.540149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Sleepy Hole Park",
+        "Panel Title": "Smith on the Nansemond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.521921,
+          36.841645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Constance's Wharf",
+        "Panel Title": "Natives on the Nansemond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.580481,
+          36.739672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Mason Neck State Park",
+        "Panel Title": "Birds Then and Now"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.199694,
+          38.643452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Jamestown Settlement",
+        "Panel Title": "Survival Strategy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.787399,
+          37.222586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Jamestown Beach Park",
+        "Panel Title": "John Smith Explores the Chesapeake/ Join the Adventure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.788817,
+          37.225342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Huntington Park",
+        "Panel Title": "Heading Out"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.455621,
+          37.016604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Chesapeake House Service Area",
+        "Panel Title": "Explore the Chesapeake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.009215,
+          39.611656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Chickahominy Tribal Center",
+        "Panel Title": "John Smith Captured by Virginia Indians"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1254,
+          37.4122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Zimmerman Center for Heritage",
+        "Panel Title": "Gateway to the Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.496368,
+          39.977529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Richmond City Parks A - Lee Bridge",
+        "Panel Title": "Water Power"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.448683,
+          37.534279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Richmond City Parks B - Pony Pasture Park",
+        "Panel Title": "Line of Demarcation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.520583,
+          37.551484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Gloucester Courthouse",
+        "Panel Title": "A Sacred Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52929,
+          37.415178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Highland Springs",
+        "Panel Title": "The Chickahominy Tribe / Captain John Smith Chesapeake National Historic Trail / Public River Access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.272088,
+          37.551441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Rockahock Campground",
+        "Panel Title": "Sustaining Courage for Exploration / Sustaining Cultural Survival / Sustaining Wildlife"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.936746,
+          37.406925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "River's Rest Marina",
+        "Panel Title": "Sustaining a Credible Illusion / Sustaining a Productive Yield / Sustaining a Fishery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.912628,
+          37.36305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Mount Harmon Plantation",
+        "Panel Title": "The Sassafras River, Gateway to the Chesapeake Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.937567,
+          39.379392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "Crain Memorial Welcome Center",
+        "Panel Title": "Discover Southern Maryland�s Amazing Stories of Exploration, Hope, and Courage / Ways to Explore Southern Maryland�s Scenic and Historic Routes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.961104,
+          38.369001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Site Name": "St. Clement's Island Museum",
+        "Panel Title": "Discover Southern Maryland�s Amazing Stories of Exploration, Hope, and Courage / Ways to Explore Southern Maryland�s Scenic and Historic Routes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.751114,
+          38.225153
+        ]
+      }
+    }
+  ]
+}
